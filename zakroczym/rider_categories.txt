@@ -1,0 +1,5 @@
+rider_category_id,rider_category_name,is_default_fare_category
+0,Bilet normalny,1
+1,Bilet ulgowy (Dziecko do 4 r.ż.),
+2,Bilet ulgowy (Dziecko do 18 r.ż.),
+3,Bilet ulgowy (Seniorzy),

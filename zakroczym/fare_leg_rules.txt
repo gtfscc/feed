@@ -1,0 +1,10 @@
+leg_group_id,fare_product_id,from_area_id,to_area_id
+flr_1,single_ride_zone1_normal,1,1
+flr_2,single_ride_zone2_normal,2,2
+flr_3,single_ride_zone3_normal,3,3
+flr_12,single_ride_zones12_normal,1,2
+flr_21,single_ride_zones12_normal,2,1
+flr_13,single_ride_zones13_normal,1,3
+flr_31,single_ride_zones13_normal,3,1
+flr_23,single_ride_zones23_normal,2,3
+flr_32,single_ride_zones23_normal,3,2

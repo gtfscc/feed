@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone
+0,Komunikacja Gminna Zakroczym,http://zakroczym.pl/komunikacja-gminna/,Europe/Warsaw,pl,+48 22 785 21 45

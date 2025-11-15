@@ -1,0 +1,11 @@
+fare_product_id,fare_media_id,fare_product_name,amount,currency,rider_category_id
+single_ride_zone1_normal,0,Przejazd na terenie gminy Zakroczym,0.00,PLN,0
+single_ride_zone2_normal,0,Przejazd na terenie Modlin-Twierdzy,0.00,PLN,0
+single_ride_zone3_normal,0,Przejazd na terenie NDM (b. Modlin-Twierdzy),0.00,PLN,0
+single_ride_zones12_normal,0,Przejazd Zakroczym ⇔ Modlin-Twierdza,4.00,PLN,0
+single_ride_zones13_normal,0,Przejazd Zakroczym ⇔ Nowy Dwór Mazowiecki,5.00,PLN,0
+single_ride_zones23_normal,0,Przejazd Modlin-Twierdza ⇔ Nowy Dwór Mazowiecki,4.00,PLN,0
+monthly_normal,1,Bilet miesięczny normalny,140.00,PLN,0
+monthly_discount,1,Bilet miesięczny ulgowy (37%),88.20,PLN,3
+monthly_discount,1,Bilet miesięczny ulgowy (50%),70.00,PLN,2
+monthly_discount,1,Bilet miesięczny ulgowy (100%),0.00,PLN,1

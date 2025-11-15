@@ -1,0 +1,4 @@
+agency_id,route_id,route_short_name,route_long_name,route_type,route_color,route_text_color
+0,Z1,Z1,Czarna - Nowy Dwór Mazowiecki Akacjowa,3,1657ba,FFFFFF
+0,Z2,Z2,Smoszewo Pętla - Nowy Dwór Mazowiecki Osiedle Młodych,3,E73837,FFFFFF
+0,Z3,Z3,Smoszewo Pętla - Nowy Dwór Mazowiecki Akacjowa,3,199A45,FFFFFF

@@ -1,0 +1,49 @@
+route_id,service_id,trip_id,trip_headsign,shape_id
+Z1,10-1,10-1,NDM Akacjowa,10
+Z1,10-2,10-2,NDM Akacjowa,10
+Z1,10-3,10-3,NDM Akacjowa,10
+Z1,10-4,10-4,NDM Akacjowa,10
+Z1,10S-1,10S-1,Zakroczym UM,10S
+Z1,10S-2,10S-2,Zakroczym UM,10S
+Z1,11-1,11-1,Czarna przez Zakroczym UM,11
+Z1,11-2,11-2,Czarna przez Zakroczym UM,11
+Z1,11-3,11-3,Czarna przez Zakroczym UM,11
+Z1,11-4,11-4,Czarna przez Zakroczym UM,11
+Z1,11-5,11-5,Czarna przez Zakroczym UM,11
+Z1,11S-1,11S-1,Czarna,11S
+Z1,11S-2,11S-2,Czarna,11S
+Z1,11S-3,11S-3,Czarna,11S
+Z2,20-1,20-1,NDM Osiedle Młodych,20
+Z2,20-2,20-2,NDM Osiedle Młodych,20
+Z2,20A-1,20A-1,NDM Paderewskiego,20A
+Z2,20A-2,20A-2,NDM Paderewskiego,20A
+Z2,20A-3,20A-3,NDM Paderewskiego,20A
+Z2,20A-4,20A-4,NDM Paderewskiego,20A
+Z2,20B-1,20B-1,Modlin Chrzanowskiego (Kurs skrócony),20B
+Z2,21-1,21-1,Smoszewo-Pętla,21
+Z2,21-2,21-2,Smoszewo-Pętla,21
+Z2,21S-1,21S-1,Smoszewo-Pętla,21S
+Z2,21S-2,21S-2,Smoszewo-Pętla,21S
+Z2,21S-3,21S-3,Smoszewo-Pętla,21S
+Z2,21S-4,21S-4,Smoszewo-Pętla,21S
+Z2,21S-5,21S-5,Smoszewo-Pętla,21S
+Z2,21S-6,21S-6,Smoszewo-Pętla,21S
+Z2,21S-7,21S-7,Smoszewo-Pętla,21S
+Z3,30-1,30-1,NDM Morawicza,30
+Z3,30-2,30-2,NDM Morawicza,30
+Z3,30-3,30-3,NDM Morawicza,30
+Z3,30-4,30-4,NDM Morawicza,30
+Z3,30-5,30-5,NDM Morawicza,30
+Z3,30-6,30-6,NDM Morawicza,30
+Z3,30-7,30-7,NDM Morawicza,30
+Z3,30-8,30-8,NDM Morawicza,30
+Z3,30-9,30-9,NDM Morawicza,30
+Z3,31-1,31-1,Smoszewo-Pętla,31
+Z3,31-2,31-2,Smoszewo-Pętla,31
+Z3,31-3,31-3,Smoszewo-Pętla,31
+Z3,31-4,31-4,Smoszewo-Pętla,31
+Z3,31-5,31-5,Smoszewo-Pętla,31
+Z3,31-6,31-6,Smoszewo-Pętla,31
+Z3,31-7,31-7,Smoszewo-Pętla,31
+Z3,31-8,31-8,Smoszewo-Pętla,31
+Z3,31-9,31-9,Smoszewo-Pętla,31
