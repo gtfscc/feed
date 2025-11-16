@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>feed.gtfs.cc</title>
+  <link href="styles.css" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      background: #ffffff;
+      color: #1a1a1a;
+    }
+
+    #top-bar {
+      background: #d3241c;
+    }
+
+    #logo { color: #fff; }
+
+    main { margin-top: 100px; padding: 60px 40px; max-width: 1200px; margin-inline: auto; }
+
+    h1 { color: #000; }
+    .subtitle { color: #000; }
+
+    .mainContentSection.documents { background-color: #fff; }
+
+    #fileTreeContainer { color: #000; }
+    #fileTreeContainer::-webkit-scrollbar-thumb { background-color: #cecece; }
+
+    li.directory::before {
+      content: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='17' height='17' viewBox='0 0 24 24' fill='%23d3241c' stroke='%23d3241c' stroke-width='1.5' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M20 20a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2h-7.9a2 2 0 0 1-1.69-.9L9.6 3.9A2 2 0 0 0 7.93 3H4a2 2 0 0 0-2 2v13a2 2 0 0 0 2 2Z'/%3E%3C/svg%3E");
+    }
+
+    li.file::before {
+      content: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='17' height='17' viewBox='0 0 24 24' fill='none' stroke='%23dca100' stroke-width='1.5' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M15 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7Z'/%3E%3Cpath d='M14 2v4a2 2 0 0 0 2 2h4'/%3E%3Cpath d='M10 9H8'/%3E%3Cpath d='M16 13H8'/%3E%3Cpath d='M16 17H8'/%3E%3C/svg%3E");
+    }
+
+    li:hover > span { background-color: #fcfcfc; }
+    .lang-btn { color: #fff; }
+    .lang-separator { color: #fff;}
+
+    a { color: #000; }
+  </style>
+</head>
+<body>
+  <div id="top-bar">
+    <div id="logo">feed.gtfs.cc</div>
+    <div class="right-section">
+      <nav class="top-nav">
+        <a href="https://gtfs.cc/" data-lang-content data-en="Home" data-pl="Strona główna">Home</a>
+      </nav>
+      <div class="language-switcher">
+        <button class="lang-btn active" data-lang="en">EN</button>
+        <span class="lang-separator">|</span>
+        <button class="lang-btn" data-lang="pl">PL</button>
+      </div>
+    </div>
+  </div>
+
+  <main>
+    <h1 data-lang-content data-en="GTFS Feeds I Made"
+        data-pl="Zbiór Moich Źródeł GTFS">GTFS Feeds I Made</h1>
+    <p class="subtitle" data-lang-content data-en="Download the files here:"
+        data-pl="Pobierz pliki tutaj:">Download the files here:</p>
+
+    <div class="mainContentSection documents">
+      <div id="fileTreeContainer">
+        <ul id="fileTree"></ul>
+      </div>
+    </div>
+  </main>
+
+<script>
+    const tree = [
+    {
+        "path": "/zakroczym",
+        "name": "zakroczym",
+        "children": [
+        {
+            "path": "/",
+            "name": "unzipped",
+            "children": [
+            { "path": "/zakroczym/agency.txt", "name": "agency.txt" },
+            { "path": "/zakroczym/attributions.txt", "name": "attributions.txt" },
+            { "path": "/zakroczym/calendar.txt", "name": "calendar.txt" },
+            { "path": "/zakroczym/calendar_dates.txt", "name": "calendar_dates.txt" },
+            { "path": "/zakroczym/fare_media.txt", "name": "fare_media.txt" },
+            { "path": "/zakroczym/fare_products.txt", "name": "fare_products.txt" },
+            { "path": "/zakroczym/feed_info.txt", "name": "feed_info.txt" },
+            { "path": "/zakroczym/rider_categories.txt", "name": "rider_categories.txt" },
+            { "path": "/zakroczym/routes.txt", "name": "routes.txt" },
+            { "path": "/zakroczym/shapes.txt", "name": "shapes.txt" },
+            { "path": "/zakroczym/stop_times.txt", "name": "stop_times.txt" },
+            { "path": "/zakroczym/stops.txt", "name": "stops.txt" },
+            { "path": "/zakroczym/trips.txt", "name": "trips.txt" }
+            ]
+        },
+        {
+            "path": "/",
+            "name": "zipped",
+            "children": [
+            { "path": "/zakroczym/gtfs.zip", "name": "gtfs.zip" }
+            ]
+        }
+        ]
+    }
+    ];
+
+    function generateFileTreeHTML(node) {
+    const li = document.createElement("li");
+
+    if (node.children) {
+        li.classList.add("directory");
+        const span = document.createElement("span");
+        span.textContent = node.name;
+        li.appendChild(span);
+
+        const ul = document.createElement("ul");
+        node.children.forEach(child => {
+        ul.appendChild(generateFileTreeHTML(child));
+        });
+        li.appendChild(ul);
+    } else {
+        li.classList.add("file");
+        const link = document.createElement("a");
+        link.textContent = node.name;
+        link.href = node.path;
+        link.download = node.name;
+        li.appendChild(link);
+    }
+
+    return li;
+    }
+
+    function renderFileTree(container, treeArray) {
+    treeArray.forEach(node => {
+        container.appendChild(generateFileTreeHTML(node));
+    });
+    }
+
+    document.addEventListener("DOMContentLoaded", () => {
+    const container = document.getElementById("fileTree");
+    renderFileTree(container, tree);
+
+    container.addEventListener("click", (event) => {
+        const target = event.target;
+        if (target.tagName === "SPAN" && target.parentElement.classList.contains("directory")) {
+        target.parentElement.classList.toggle("expanded");
+        }
+    });
+
+    const langButtons = document.querySelectorAll(".lang-btn");
+    const translatable = document.querySelectorAll("[data-lang-content]");
+    langButtons.forEach(btn => {
+        btn.addEventListener("click", () => {
+        const lang = btn.getAttribute("data-lang");
+        langButtons.forEach(b => b.classList.toggle("active", b === btn));
+        translatable.forEach(el => {
+            el.textContent = el.getAttribute(`data-${lang}`);
+        });
+        });
+    });
+    });
+</script>
+</body>
+</html>
