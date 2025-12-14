@@ -1,0 +1,9 @@
+agency_id,route_id,route_short_name,route_long_name,route_type,route_color,route_text_color,cemv_support,route_sort_order
+0,1,1,Linia okrężna,3,1A2E70,FFFFFF,2,0
+0,10,1-bis,Linia okrężna,3,3151B8,FFFFFF,2,1
+0,2,2,Czosnów - Kazuń Nowy,3,436125,FFFFFF,2,2
+0,3,3,Linia okrężna przez Cybulice,3,FFC800,000000,2,3
+0,3K,3k,Linia kościelna,3,FFC800,000000,2,4
+0,30,3-bis,Czosnów - Cybulice - Nowy Dwór Maz.,3,725328,FFFFFF,2,5
+0,4,4,Czosnów - Nowy Dwór Maz.,3,883399,FFFFFF,2,6
+0,6,6,Czosnów - Palmiry,3,A71D1D,FFFFFF,2,7

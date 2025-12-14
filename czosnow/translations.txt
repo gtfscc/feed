@@ -1,0 +1,50 @@
+table_name,field_name,language,record_id,translation
+stops,stop_name,en,107-01,Wiersze Armii Krajowej-Church 01
+stops,stop_name,en,112-01,Brzozówka-Shop (Słoneczna St) 01
+stops,stop_name,en,114-02,Sowia Wola-School 02
+stops,stop_name,en,114-01,Sowia Wola-School 01
+stops,stop_name,en,116-02,Małocice-School 02
+stops,stop_name,en,116-01,Małocice-School 01
+stops,stop_name,en,122-01,Kazuń Nowy National Road 01
+stops,stop_name,en,122-02,Kazuń Nowy National Road 02
+stops,stop_name,en,123-01,Kazuń-Bielany Regional Road 01
+stops,stop_name,en,123-02,Kazuń-Bielany Regional Road 02
+stops,stop_name,en,124-01,Kazuń Polski Regional Road 01
+stops,stop_name,en,124-02,Kazuń Polski Regional Road 02
+stops,stop_name,en,129-01,Cybulice Małe Regional Road 01
+stops,stop_name,en,129-02,Cybulice Małe Regional Road 02
+stops,stop_name,en,139-02,Nowy Dwór Mazowiecki Akacjowa-Rail Stn 02
+stops,stop_name,en,139-01,Nowy Dwór Mazowiecki Akacjowa-Rail Stn 01
+stops,stop_name,en,140-02,Nowy Dwór Mazowiecki Urząd Miasta (City Hall) 02
+stops,stop_name,en,140-03,Nowy Dwór Mazowiecki Urząd Miasta (City Hall) 03
+stops,stop_name,en,141-01,Palmiry-Forest Parking 01
+stops,stop_name,en,145-01,Łomna-School 01
+stops,stop_name,en,145-02,Łomna-School 02
+stops,stop_name,en,146-02,Łomna-West 02
+stops,stop_name,en,146-01,Łomna-West 01
+stops,stop_name,en,147-02,Cząstków Polski East 02
+stops,stop_name,en,147-01,Cząstków Polski East 01
+stops,stop_name,en,152-01,Łomna-East 01
+stops,stop_name,en,152-02,Łomna-East 02
+stops,stop_name,en,200-01,Kazuń Nowy-Military Unit 01
+stops,stop_name,en,500-01,Kazuń-Bielany Regional Road 01
+stops,stop_name,en,500-02,Kazuń-Bielany Regional Road 02
+trips,trip_headsign,en,1A-1,Kiścinne via Janówek
+trips,trip_headsign,en,1C-1,Kiścinne via Janówek
+trips,trip_headsign,en,1D-1,Kiścinne via Janówek
+trips,trip_headsign,en,1F-1,Kiścinne via Janówek
+trips,trip_headsign,en,10B,Czosnów via Sowia Wola
+trips,trip_headsign,en,10C,Czosnów via Sowia Wola
+trips,trip_headsign,en,10D,Czosnów via Sowia Wola
+trips,trip_headsign,en,10G,Czosnów via Sowia Wola
+trips,trip_headsign,en,3A,Czosnów via Cybulice Duże
+trips,trip_headsign,en,3E,Czosnów via Kazuń Polski Church ↺
+trips,trip_headsign,en,3F,Czosnów via Kazuń Polski Church ↻
+trips,trip_headsign,en,30E,Czosnów via Cybulice
+trips,trip_headsign,en,30F,Czosnów via Cybulice
+trips,trip_headsign,en,30G,Czosnów via Cybulice
+trips,trip_headsign,en,30H,Czosnów via Cybulice
+trips,trip_headsign,en,6E,Palmiry (Forest Parking)
+trips,trip_headsign,en,6F,Palmiry (Forest Parking)
+trips,trip_headsign,en,6G,Palmiry (Forest Parking)
+trips,trip_headsign,en,6H,Palmiry (Forest Parking)

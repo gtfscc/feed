@@ -1,0 +1,66 @@
+route_id,service_id,trip_id,trip_headsign,shape_id,block_id
+1,DP,1A-1,Kiścinne przez Janówek,S1A,M1A
+1,DP,1A-2,Czosnów → NDM,S1B,M1A
+1,DP,1B,Czosnów → NDM,S1,M1B
+1,DP,1C-1,Kiścinne przez Janówek,S1A,M1C
+1,DP,1C-2,Czosnów → NDM,S1B,M1C
+1,DP,1D-1,Kiścinne przez Janówek,S1A,M1D
+1,DP,1D-2,Czosnów → NDM,S1B,M1D
+1,DP,1E,Czosnów → NDM,S1,M1E
+1,DP,1F-1,Kiścinne przez Janówek,S1A,M1F
+1,DP,1F-2,Czosnów → NDM,S1B,M1F
+10,DP,10A,Czosnów,S10A,M10A
+10,DP,10B,Czosnów przez Sowią Wolę,S10B,M10B
+10,SB+DS,10C,Czosnów przez Sowią Wolę,S10B,M10C
+10,SB+DS,10D,Czosnów przez Sowią Wolę,S10B,M10D
+10,DP,10E,Czosnów,S10A,M10E
+10,DP,10F,Czosnów,S10A,M10F
+10,DP,10G,Czosnów przez Sowią Wolę,S10B,M10G
+10,DP,10H,Czosnów,S10A,M10H
+10,DP,10I,Czosnów,S10A,M10I
+10,DP,10J,Czosnów,S10A,M10J
+10,SB+DS,10K,Czosnów,S10R,M10K
+10,SB+DS,10L,Czosnów,S10R,M10L
+10,SB+DS,10M,Czosnów,S10R,M10M
+2,PP,2A,Kazuń Nowy-Jednostka,S2A,M2
+2,PP,2B,Czosnów,S2B,M2
+3,DP,3A,Czosnów przez Cybulice Duże,S3A,M3A
+3,SB,3B,Czosnów,S3B,M3B
+3,SB,3C,Czosnów,S3B,M3C
+3,DP,3D,Czosnów,S3B,M3D
+3K,DS,3E,Czosnów przez Kościół ↺,S3NA,M3E
+3K,DS,3F,Czosnów przez Kościół ↻,S3NB,M3F
+30,DP,30A,NDM Akacjowa,S30A,M30A
+30,DP,30B,NDM Akacjowa,S30A,M30B
+30,DP,30C,NDM Akacjowa,S30A,M30C
+30,DP,30D,NDM Akacjowa,S30A,M30D
+30,DP,30E,Czosnów przez Cybulice,S30B,M30E
+30,DP,30F,Czosnów przez Cybulice,S30B,M30F
+30,DP,30G,Czosnów przez Cybulice,S30B,M30G
+30,DP,30H,Czosnów przez Cybulice,S30B,M30H
+4,PP,4A,NDM Akacjowa,S4A,M4X
+4,PP,4B,NDM Akacjowa,S4A,M4B
+4,PP,4C,NDM Akacjowa,S4A,M4C
+4,PP,4D,NDM Akacjowa,S4A,M4Y
+4,PP,4E,NDM Akacjowa,S4A,M4E
+4,PP,4F,NDM Akacjowa,S4A,M4F
+4,PP,4G,NDM Akacjowa,S4A,M4G
+4,PP,4H,NDM Akacjowa,S4A,M4H
+4,PP,4I,NDM Akacjowa,S4A,M4I
+4,PP,4J,Czosnów,S4B,M4X
+4,PP,4K,Czosnów,S4B,M4K
+4,PP,4L,Czosnów,S4B,M4L
+4,PP,4M,Czosnów,S4B,M4M
+4,PP,4N,Czosnów,S4B,M4N
+4,PP,4O,Czosnów,S4B,M4Y
+4,PP,4P,Czosnów,S4B,M4P
+4,PP,4Q,Czosnów,S4B,M4Q
+4,PP,4R,Czosnów,S4B,M4R
+6,DP,6A,Czosnów → NDM,S6A,M6A
+6,DP,6B,Czosnów → NDM,S6A,M6B
+6,DP,6C,Czosnów → NDM,S6A,M6C
+6,DP,6D,Czosnów,S6A,M6D
+6,DP,6E,Palmiry-Parking,S6B,M6E
+6,DP,6F,Palmiry-Parking,S6B,M6F
+6,DP,6G,Palmiry-Parking,S6B,M6G
+6,DP,6H,Palmiry-Parking,S6B,M6H
