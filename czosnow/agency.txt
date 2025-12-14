@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_phone,agency_email
+0,"Urząd Gminy Czosnów","https://czosnow.pl","Europe/Warsaw","22 785-02-01","sekretariat@czosnow.pl"
