@@ -1,6 +1,6 @@
 table_name,field_name,language,translation,record_id
 stops,stop_name,en,"Zaręby-Terminal",101
-stops,stop_name,en,"Wojszczyce-Fire Department",103
+stops,stop_name,en,"Wojszczyce - Fire Department",103
 stops,stop_name,en,"Janowo-Intersection",104
 stops,stop_name,en,"Śniadowo-Terminal",106
 stops,stop_name,en,"Zakroczym Strubiny (Intersection)",110
@@ -13,7 +13,7 @@ stops,stop_name,en,"Nowy Dwór Mazowiecki City Hall 01",121
 stops,stop_name,en,"Nowy Dwór Mazowiecki City Hall 02",122
 stops,stop_name,en,"Trębki Nowe-Fire Department",205
 stops,stop_name,en,"Wólka Smoszewska (Wayside Shrine)",207
-stops,stop_name,en,"Zakroczym Warszawska-Estate",222
+stops,stop_name,en,"Zakroczym Warszawska/Rytła",222
 trips,trip_headsign,en,"NDM Akacjowa",10-1
 trips,trip_headsign,en,"NDM Akacjowa",10-2
 trips,trip_headsign,en,"NDM Akacjowa",10-3
