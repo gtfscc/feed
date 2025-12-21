@@ -38,8 +38,8 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon,location_type
 121-01,01,Dębina 01,52.3920995,20.7150733,0
 122-01,01,Kazuń Nowy Droga Krajowa 01,52.4213837,20.6874212,0
 122-02,02,Kazuń Nowy Droga Krajowa 02,52.4209447,20.6866826,0
-123-01,01,Kazuń-Bielany Droga Wojewódzka 01,52.4031892,20.6830169,0
-123-02,02,Kazuń-Bielany Droga Wojewódzka 02,52.4037941,20.6852224,0
+123-01,01,Kazuń-Bielany PAN (DW579) 01,52.4031892,20.6830169,0
+123-02,02,Kazuń-Bielany PAN (DW579) 02,52.4037941,20.6852224,0
 124-01,01,Kazuń Polski Droga Wojewódzka 01,52.3944216,20.6592134,0
 124-02,02,Kazuń Polski Droga Wojewódzka 02,52.394491,20.6608702,0
 125-01,01,Czeczotki-Sklep 01,52.3872631,20.6587116,0
@@ -89,5 +89,5 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon,location_type
 200-01,01,Kazuń Nowy-Jednostka 01,52.4221428,20.6824106,0
 300-01,01,Cybulice Małe Wesoła 01,52.391206,20.638198,0
 400-01,01,Kazuń Polski Polna 01,52.410881,20.6722638,0
-500-01,01,Kazuń-Bielany Droga Wojewódzka 01,52.392381564149204,20.676965110514686,0
-500-02,02,Kazuń-Bielany Droga Wojewódzka 02,52.392422146276466,20.6765665000252670,0
+500-01,01,Kazuń-Bielany Działkowa (DW579) 01,52.392381564149204,20.676965110514686,0
+500-02,02,Kazuń-Bielany Działkowa (DW579) 02,52.392422146276466,20.6765665000252670,0
