@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Disallow: /czosnow/
+Disallow: /zakroczym/
+Disallow: /*
+
+Sitemap: https://feed.gtfs.cc/sitemap.xml
