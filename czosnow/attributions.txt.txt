@@ -1,0 +1,2 @@
+organization_name,is_producer,is_operator,is_authority,attribution_url,attribution_email,attribution_phone
+Alexander Dubis,1,0,0,https://gtfs.cc/,alex@gtfs.cc,+48507049770
