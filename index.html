@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>feed.gtfs.cc</title>
   <link href="styles.css" rel="stylesheet">
+  <link rel="icon" type="image/x-icon" href="/media/favicon-red.ico">
   <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet">
   <style>
     * { margin: 0; padding: 0; box-sizing: border-box; }
@@ -43,6 +44,64 @@
     .lang-separator { color: #fff;}
 
     a { color: #000; }
+
+    .mainContentSection.documents {
+      border-radius: 2px;
+    }
+
+    #fileTreeContainer {
+      overflow-y: auto;
+      height: 600px;
+      padding-inline: 14px 10px;
+    }
+
+    #fileTreeContainer::-webkit-scrollbar {
+      width: 5px;
+    }
+
+    #fileTreeContainer::-webkit-scrollbar-thumb {
+      border-radius: 4px;
+    }
+
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+
+    li {
+      line-height: 2em;
+      cursor: pointer;
+      position: relative;
+      padding-left: 20px;
+    }
+
+    li.directory::before {
+      position: absolute;
+      left: 0;
+      top: 3.5px;
+    }
+
+    li.file::before {
+      position: absolute;
+      left: 0;
+      top: 3.5px;
+    }
+
+    li.directory > ul {
+      display: none;
+    }
+
+    li.directory.expanded > ul {
+      display: block;
+    }
+
+    li > span {
+      display: inline-block;
+      width: calc(100% - 15px);
+      padding: 2px 5px;
+      border-radius: 3px;
+      transition: background-color 0.15s;
+    }
   </style>
 </head>
 <body>
@@ -50,21 +109,32 @@
     <div id="logo">feed.gtfs.cc</div>
     <div class="right-section">
       <nav class="top-nav">
-        <a href="https://gtfs.cc/" data-lang-content data-en="Home" data-pl="Strona główna">Home</a>
+        <a href="https://gtfs.cc/" data-lang-content data-en="Home" data-pl="Strona główna">Strona główna</a>
       </nav>
+      <button class="mobile-menu-btn" id="mobile-menu-btn" aria-label="Toggle menu">
+        <span class="hamburger-line"></span>
+        <span class="hamburger-line"></span>
+        <span class="hamburger-line"></span>
+      </button>
       <div class="language-switcher">
-        <button class="lang-btn active" data-lang="en">EN</button>
+        <button class="lang-btn" data-lang="en">EN</button>
         <span class="lang-separator">|</span>
-        <button class="lang-btn" data-lang="pl">PL</button>
+        <button class="lang-btn active" data-lang="pl">PL</button>
       </div>
     </div>
   </div>
 
+  <div class="mobile-menu" id="mobile-menu">
+    <nav class="mobile-nav">
+      <a href="https://gtfs.cc/" class="mobile-nav-link" data-lang-content data-en="Home" data-pl="Strona główna">Powrót do strony głównej (gtfs.cc)</a>
+    </nav>
+  </div>
+
   <main>
-    <h1 data-lang-content data-en="GTFS Feeds I Made"
-        data-pl="Zbiór Moich Źródeł GTFS">GTFS Feeds I Made</h1>
+    <h1 data-lang-content data-en="Our GTFS feeds"
+        data-pl="Nasze Źródła GTFS">Nasze Źródła GTFS</h1>
     <p class="subtitle" data-lang-content data-en="Download the files here:"
-        data-pl="Pobierz pliki tutaj:">Download the files here:</p>
+        data-pl="Pobierz pliki tutaj:">Pobierz pliki tutaj:</p>
 
     <div class="mainContentSection documents">
       <div id="fileTreeContainer">
@@ -192,6 +262,32 @@
         });
         });
     });
+    });
+
+    function initMobileMenu() {
+      const btn = document.getElementById('mobile-menu-btn');
+      const menu = document.getElementById('mobile-menu');
+      const links = document.querySelectorAll('.mobile-nav-link');
+
+      if (btn) {
+        btn.addEventListener('click', function() {
+          btn.classList.toggle('active');
+          menu.classList.toggle('active');
+          document.body.style.overflow = menu.classList.contains('active') ? 'hidden' : '';
+        });
+      }
+
+      links.forEach(link => {
+        link.addEventListener('click', function() {
+          btn.classList.remove('active');
+          menu.classList.remove('active');
+          document.body.style.overflow = '';
+        });
+      });
+    }
+
+    document.addEventListener("DOMContentLoaded", () => {
+      initMobileMenu();
     });
 </script>
 </body>
