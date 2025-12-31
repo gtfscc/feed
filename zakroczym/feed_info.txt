@@ -1,2 +1,2 @@
 feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version,feed_contact_email
-"Alexander Dubis","https://gtfs.cc/","pl",20251111,20261231,zakroczym-20251222,hello@gtfs.cc
+"Alexander Dubis","https://gtfs.cc/","pl",20260101,20261231,zakroczym-20251231-old,hello@gtfs.cc
