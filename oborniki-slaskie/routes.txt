@@ -1,0 +1,6 @@
+agency_id,route_id,route_short_name,route_long_name,route_type,route_color,route_text_color
+0,L1,Linia 1,Oborniki Śląskie – Bagno – Kuraszków – Oborniki Śląskie,3,CF2E2E,FFFFFF
+0,L2,Linia 2,Oborniki Śląskie – Paniowice – Oborniki Śląskie,3,0055FF,000000
+0,L3,Linia 3A,Oborniki Śląskie – Morzęcin Wielki – Oborniki Śląskie,3,366535,FFFFFF
+0,L4,Linia 3B,Oborniki Śląskie – Piekary – Oborniki Śląskie,3,40803F,FFFFFF
+0,L5,Linia 3C,Oborniki Śląskie – Zajączków – Oborniki Śląskie,3,40803F,FFFFFF

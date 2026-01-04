@@ -1,0 +1,83 @@
+stop_id,stop_name,stop_lat,stop_lon
+100-01,Bagno Szałwiowa-Seminarium,51.3376734,16.8147341
+101-01,Bagno Lawendowa,51.3386412,16.8221366
+102-01,Bagno Pokrzywowa,51.3406648,16.8305675
+103-01,Osolin Klasztorna,51.3426772,16.8436913
+104-01,Osolin Piłsudskiego,51.3478837,16.852357
+104-02,Osolin Piłsudskiego,51.3478962,16.8520177
+105-01,Osolin Wyszyńskiego-Kaplica,51.3481797,16.8556118
+106-01,Morzęcin Mały,51.3432992,16.8733731
+107-01,Osola PKP,51.3368818,16.8660761
+108-01,Wielka Lipa Pogodna,51.3239476,16.8554496
+108-02,Wielka Lipa Pogodna,51.3243692,16.8557286
+109-01,Wielka Lipa Życzliwa,51.3292455,16.8564235
+109-02,Wielka Lipa Życzliwa,51.3290427,16.856378
+110-01,Oborniki Śląskie-Dworzec,51.2990404,16.9085286
+110-02,Oborniki Śląskie-Dworzec,51.2990017,16.9080961
+111-01,Kuraszków,51.3159607,16.9404586
+112-01,Rościsławice Żmigrodzka-OSP,51.3003664,16.8314283
+113-01,Rościsławice Leśna,51.2986092,16.8374849
+113-02,Rościsławice Leśna,51.2989211,16.836278
+114-01,Rościsławice Wołowska,51.2967284,16.8447935
+114-02,Rościsławice Wołowska,51.2969355,16.8444556
+115-01,Jary Akacjowa,51.2839377,16.86804
+116-01,Oborniki Śląskie Siemianicka,51.3156222,16.9141555
+116-02,Oborniki Śląskie Siemianicka,51.3154536,16.914016
+117-01,Siemianice Poznańska,51.3217063,16.9094407
+118-01,Morzęcin Wielki,51.3287994,16.8974599
+119-01,Piekary,51.327564,16.969878
+120-01,Przecławice,51.3203439,16.9840455
+121-01,Kowale-Kaplica,51.3024814,16.9708341
+122-01,Kowale-Świetlica (d. Sklep),51.2985438,16.969833
+123-01,Borkowice-Centrum,51.2938603,16.9927833
+124-01,Wilczyn Obornicka,51.2877212,16.956786
+124-02,Wilczyn Obornicka,51.2876256,16.956554
+125-01,Oborniki Śląskie Trzebnicka,51.2962654,16.9311684
+125-02,Oborniki Śląskie Trzebnicka,51.2961061,16.9312803
+126-01,Oborniki Śląskie Trzebnicka-Przychodnia,51.2985538,16.9222438
+126-02,Oborniki Śląskie Trzebnicka-Przychodnia,51.2984968,16.9215263
+127-01,Szewce PKP (Paniowice),51.2154943,16.9530504
+128-01,Paniowice Główna-Kościół,51.2123463,16.9434242
+128-02,Paniowice Główna-Kościół,51.2127577,16.943628
+129-01,Paniowice Główna-Poczta,51.2120896,16.9378958
+130-01,Kotowice,51.2242482,16.9195649
+131-01,Zajączków,51.233624,16.9429238
+131-02,Zajączków,51.2338147,16.9426676
+132-01,Pęgów Główna,51.2439141,16.9337492
+132-02,Pęgów Główna,51.2433524,16.9341703
+133-01,Pęgów PKP,51.2471749,16.9264795
+134-01,Pęgów-Szkoła,51.251671,16.9311342
+134-02,Pęgów-Szkoła,51.2516819,16.9309611
+135-01,Golędzinów Obornicka,51.2691985,16.9236503
+135-02,Golędzinów Obornicka,51.2683403,16.923592
+136-01,Oborniki Śląskie Ciecholowicka-Market,51.2829425,16.913864
+136-02,Oborniki Śląskie Ciecholowicka-Market,51.2822724,16.914055
+136-03,Oborniki Śląskie Ciecholowicka-Market,51.2825344,16.9136496
+137-01,Pęgów Główna (Apteka),51.2460464,16.9323913
+138-01,Niziny,51.2630802,16.8530869
+139-01,Uraz Brzeska,51.2517238,16.8449353
+140-01,Uraz Plac Wolności,51.2444337,16.8529855
+140-02,Uraz Plac Wolności,51.2445748,16.8529654
+141-01,Uraz Wrocławska,51.2440321,16.8639788
+141-02,Uraz Wrocławska,51.2441043,16.8636328
+142-01,Raków,51.2352441,16.8855734
+143-01,Lubnów Pęgowska,51.2607266,16.8861977
+144-01,Lubnów Obornicka,51.2660727,16.8920191
+144-02,Lubnów Obornicka,51.2661566,16.8919695
+145-01,Nowosielce,51.277889,16.891615
+146-01,Oborniki Śląskie Spółdzielcza,51.299657,16.9067484
+147-01,Jary-Skrzyżowanie,51.2958901,16.8692315
+147-02,Jary-Skrzyżowanie,51.2958171,16.8692543
+148-01,Osolin Wyszyńskiego/Sikorskiego,51.3429495,16.8580104
+149-01,Brzezno Małe,51.355598,16.8669728
+149-02,Brzezno Małe,51.3554791,16.8668642
+150-01,Osolin Wyszyńskiego,51.3383954,16.8605344
+151-01,Oborniki Śląskie Ciecholowicka,51.2832176,16.9072901
+152-01,Uraz-Cmentarz,51.2466224,16.8612238
+153-01,Uraz Wołowska-Szkoła,51.2530915,16.8527825
+154-01,Oborniki Śląskie Parkowa,51.3073791,16.9140296
+155-01,Oborniki Śląskie Wyszyńskiego-Szkoła,51.3041312,16.914861
+156-01,Siemianice Zachodnia,51.3227919,16.905263
+157-01,Golędzinów Moniuszki,51.2692847,16.932286
+158-01,Wilczyn Aleja Klonowa,51.2806725,16.9581439
+999-01,Obornicka Strefa Przemysłowa,51.2823488,16.9160523

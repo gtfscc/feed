@@ -1,0 +1,25 @@
+route_id,service_id,trip_id,trip_headsign,block_id,shape_id
+L1,SV,L1_1,Osola PKP,B1_1,S1A
+L1,SV,L1_2,Oborniki Śląskie przez Bagno,B1_1,S1B
+L1,SV,L1_3,Osola PKP przez Wielką Lipę,B1_1,S1C
+L1,SV,L1_4,Oborniki Śląskie przez Bagno,B1_1,S1D
+L1,SV,L1_5,Oborniki Śląskie przez Brzezno,B1_2,S1E
+L1,SV,L1_6,Oborniki Śląskie przez Bagno,B1_3,S1F
+L1,SV,L1_7,Oborniki Śląskie przez Bagno,B1_4,S1F
+L1,SV,L1_8,Oborniki Śląskie przez Brzezno,B1_5,S1E
+L2,SV,L2_1,Lubnów przez Uraz,B2_1,S2A
+L2,SV,L2_2,Oborniki Śląskie przez Golędzinów,B2_1,S2B
+L2,SV,L2_3,Oborniki Śląskie przez Paniowice,B2_2,S2C
+L2,SV,L2_4,Oborniki Śląskie przez Paniowice,B2_3,S2C
+L2,SV,L2_5,Lubnów przez Paniowice,B2_4,S2D
+L2,SV,L2_6,Oborniki Śląskie przez Raków,B2_4,S2E
+L2,SV,L2_7,Oborniki Śląskie przez Pęgów,B2_4,S2F
+L3,SV,L3_1,Oborniki Śląskie przez Siemianice,B3_A,S3
+L3,SV,L3_2,Oborniki Śląskie przez Siemianice,B3_B,S3
+L3,SV,L3_3,Oborniki Śląskie przez Siemianice,B3_C,S3
+L3,SV,L3_4,Oborniki Śląskie przez Siemianice,B3_D,S3
+L3,SV,L3_5,Oborniki Śląskie przez Siemianice,B3_E,S3
+L4,SV,L4_1,Oborniki Śląskie przez Piekary,B4_A,S4
+L4,SV,L4_2,Oborniki Śląskie przez Piekary,B4_B,S4
+L5,SV,L5_1,Oborniki Śląskie przez Zajączków,B5_A,S5
+L5,SV,L5_2,Oborniki Śląskie przez Zajączków,B5_B,S5

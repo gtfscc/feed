@@ -1,0 +1,8 @@
+rider_category_id,rider_category_name,is_default_fare_category
+norm,Bilet normalny,1
+ulg33,Ulga 33%,0
+ulg37,Ulga 37%,0
+ulg49,Ulga 49% - Uczeń,0
+ulg51,Ulga 51%,0
+ulg78,Ulga 78%,0
+ulg93,Ulga 93%,0

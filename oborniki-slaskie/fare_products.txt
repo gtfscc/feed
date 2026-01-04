@@ -1,0 +1,15 @@
+fare_product_id,fare_product_name,amount,currency,fare_media_id,rider_category_id
+jraz_norm,Bilet jednorazowy normalny,3.00,PLN,jraz,norm
+jraz_33,Bilet jednorazowy - Ulga 33%,2.01,PLN,jraz,ulg33
+jraz_37,Bilet jednorazowy - Ulga 37%,1.89,PLN,jraz,ulg37
+jraz_49,Bilet jednorazowy - Ulga 49% (Szkolny),1.53,PLN,jraz,ulg49
+jraz_51,Bilet jednorazowy - Ulga 51%,1.47,PLN,jraz,ulg51
+jraz_78,Bilet jednorazowy - Ulga 78%,0.66,PLN,jraz,ulg78
+jraz_93,Bilet jednorazowy - Ulga 93%,0.21,PLN,jraz,ulg93
+mies_norm,Bilet miesięczny normalny,80.00,PLN,mies,norm
+mies_33,Bilet miesięczny - Ulga 33%,53.60,PLN,mies,ulg33
+mies_37,Bilet miesięczny - Ulga 37%,50.40,PLN,mies,ulg37
+mies_49,Bilet miesięczny - Ulga 49% (Szkolny),40.80,PLN,mies,ulg49
+mies_51,Bilet miesięczny - Ulga 51%,39.20,PLN,mies,ulg51
+mies_78,Bilet miesięczny - Ulga 78%,17.60,PLN,mies,ulg78
+mies_93,Bilet miesięczny - Ulga 93%,5.60,PLN,mies,ulg93

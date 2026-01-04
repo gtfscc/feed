@@ -1,0 +1,107 @@
+table_name,field_name,record_id,language,translation
+stops,stop_name,100-01,en,Bagno Szałwiowa (Seminary)
+stops,stop_name,100-01,cs,Bagno Szałwiowa (Seminář)
+stops,stop_name,105-01,en,Osolin Wyszyńskiego (Chapel)
+stops,stop_name,105-01,cs,Osolin Wyszyńskiego (Kaple)
+stops,stop_name,107-01,en,Osola Railway Station
+stops,stop_name,107-01,cs,"Osola, zastávka"
+stops,stop_name,110-01,en,Oborniki Śląskie Railway Station
+stops,stop_name,110-01,cs,"Oborniki Śląskie, nádraží"
+stops,stop_name,110-02,en,Oborniki Śląskie Railway Station
+stops,stop_name,110-02,cs,"Oborniki Śląskie, nádraží"
+stops,stop_name,112-01,en,Rościsławice Żmigrodzka
+stops,stop_name,112-01,cs,Rościsławice Żmigrodzka
+stops,stop_name,121-01,en,Kowale Chapel
+stops,stop_name,121-01,cs,"Kowale, kaple"
+stops,stop_name,122-01,en,Kowale Community Center
+stops,stop_name,122-01,cs,"Kowale, kulturní dům"
+stops,stop_name,123-01,en,Borkowice
+stops,stop_name,123-01,cs,Borkowice
+stops,stop_name,125-01,en,Oborniki Śląskie Trzebnicka (ZGK)
+stops,stop_name,125-01,cs,Oborniki Śląskie Trzebnicka (ZGK)
+stops,stop_name,125-02,en,Oborniki Śląskie Trzebnicka (ZGK)
+stops,stop_name,125-02,cs,Oborniki Śląskie Trzebnicka (ZGK)
+stops,stop_name,126-01,en,Oborniki Śląskie Trzebnicka (Clinic)
+stops,stop_name,126-01,cs,Oborniki Śląskie Trzebnicka (Poliklinika)
+stops,stop_name,126-02,en,Oborniki Śląskie Trzebnicka (Clinic)
+stops,stop_name,126-02,cs,Oborniki Śląskie Trzebnicka (Poliklinika)
+stops,stop_name,127-01,en,Paniowice/Szewce Railway Station
+stops,stop_name,127-01,cs,"Paniowice/Szewce, zastávka"
+stops,stop_name,128-01,en,Paniowice Główna (Church)
+stops,stop_name,128-01,cs,Paniowice Główna (Kostel)
+stops,stop_name,128-02,en,Paniowice Główna (Church)
+stops,stop_name,128-02,cs,Paniowice Główna (Kostel)
+stops,stop_name,129-01,en,Paniowice Główna (Post Office)
+stops,stop_name,129-01,cs,Paniowice Główna (Pošta)
+stops,stop_name,133-01,en,Pęgów Railway Station
+stops,stop_name,133-01,cs,"Pęgów, zastávka"
+stops,stop_name,134-01,en,Pęgów School
+stops,stop_name,134-01,cs,"Pęgów, škola"
+stops,stop_name,134-02,en,Pęgów School
+stops,stop_name,134-02,cs,"Pęgów, škola"
+stops,stop_name,136-01,en,Oborniki Śląskie Ciecholowicka (Home Improvement Store)
+stops,stop_name,136-01,cs,Oborniki Śląskie Ciecholowicka (Mrówka)
+stops,stop_name,136-02,en,Oborniki Śląskie Ciecholowicka (Home Improvement Store)
+stops,stop_name,136-02,cs,Oborniki Śląskie Ciecholowicka (Mrówka)
+stops,stop_name,137-01,en,Pęgów Główna (Pharmacy)
+stops,stop_name,137-01,cs,Pęgów Hlavní (Lékárna)
+stops,stop_name,147-01,en,Jary Intersection
+stops,stop_name,147-01,cs,"Jary, křižovatka"
+stops,stop_name,147-02,en,Jary Intersection
+stops,stop_name,147-02,cs,"Jary, křižovatka"
+stops,stop_name,152-01,en,Uraz Cemetery (3 Maja Street)
+stops,stop_name,152-01,cs,"Uraz, hřbitov (ul. 3 Maja)"
+stops,stop_name,153-01,en,Uraz Wołowska (School)
+stops,stop_name,153-01,cs,Uraz Wołowska (Škola)
+stops,stop_name,155-01,en,Oborniki Śląskie Wyszyńskiego (School)
+stops,stop_name,155-01,cs,Oborniki Śląskie Wyszyńskiego (Škola)
+stops,stop_name,999-01,en,Oborniki Industrial Zone
+stops,stop_name,999-01,cs,"Oborniki, průmyslová zóna"
+trips,trip_headsign,L1_1,en,Osola Railway Station
+trips,trip_headsign,L1_1,cs,"Osola, zastávka"
+trips,trip_headsign,L1_2,en,Oborniki Śląskie via Bagno
+trips,trip_headsign,L1_2,cs,Oborniki Śląskie přes Bagno
+trips,trip_headsign,L1_3,en,Osola Railway Station via Wielka Lipa
+trips,trip_headsign,L1_3,cs,"Osola, zastávka přes Wielkou Lipu"
+trips,trip_headsign,L1_4,en,Oborniki Śląskie via Bagno
+trips,trip_headsign,L1_4,cs,Oborniki Śląskie přes Bagno
+trips,trip_headsign,L1_5,en,Oborniki Śląskie via Brzezno
+trips,trip_headsign,L1_5,cs,Oborniki Śląskie přes Brzezno
+trips,trip_headsign,L1_6,en,Oborniki Śląskie via Bagno
+trips,trip_headsign,L1_6,cs,Oborniki Śląskie přes Bagno
+trips,trip_headsign,L1_7,en,Oborniki Śląskie via Bagno
+trips,trip_headsign,L1_7,cs,Oborniki Śląskie přes Bagno
+trips,trip_headsign,L1_8,en,Oborniki Śląskie via Brzezno
+trips,trip_headsign,L1_8,cs,Oborniki Śląskie přes Brzezno
+trips,trip_headsign,L2_1,en,Lubnów via Uraz
+trips,trip_headsign,L2_1,cs,Lubnów přes Uraz
+trips,trip_headsign,L2_2,en,Oborniki Śląskie via Golędzinów
+trips,trip_headsign,L2_2,cs,Oborniki Śląskie přes Golędzinów
+trips,trip_headsign,L2_3,en,Oborniki Śląskie via Paniowice
+trips,trip_headsign,L2_3,cs,Oborniki Śląskie přes Paniowice
+trips,trip_headsign,L2_4,en,Oborniki Śląskie via Paniowice
+trips,trip_headsign,L2_4,cs,Oborniki Śląskie přes Paniowice
+trips,trip_headsign,L2_5,en,Lubnów via Paniowice
+trips,trip_headsign,L2_5,cs,Lubnów přes Paniowice
+trips,trip_headsign,L2_6,en,Oborniki Śląskie via Raków
+trips,trip_headsign,L2_6,cs,Oborniki Śląskie přes Raków
+trips,trip_headsign,L2_7,en,Oborniki Śląskie via Pęgów
+trips,trip_headsign,L2_7,cs,Oborniki Śląskie přes Pęgów
+trips,trip_headsign,L3_1,en,Oborniki Śląskie via Siemianice
+trips,trip_headsign,L3_1,cs,Oborniki Śląskie přes Siemianice
+trips,trip_headsign,L3_2,en,Oborniki Śląskie via Siemianice
+trips,trip_headsign,L3_2,cs,Oborniki Śląskie přes Siemianice
+trips,trip_headsign,L3_3,en,Oborniki Śląskie via Siemianice
+trips,trip_headsign,L3_3,cs,Oborniki Śląskie přes Siemianice
+trips,trip_headsign,L3_4,en,Oborniki Śląskie via Siemianice
+trips,trip_headsign,L3_4,cs,Oborniki Śląskie přes Siemianice
+trips,trip_headsign,L3_5,en,Oborniki Śląskie via Siemianice
+trips,trip_headsign,L3_5,cs,Oborniki Śląskie přes Siemianice
+trips,trip_headsign,L4_1,en,Oborniki Śląskie via Piekary
+trips,trip_headsign,L4_1,cs,Oborniki Śląskie přes Piekary
+trips,trip_headsign,L4_2,en,Oborniki Śląskie via Piekary
+trips,trip_headsign,L4_2,cs,Oborniki Śląskie přes Piekary
+trips,trip_headsign,L5_1,en,Oborniki Śląskie via Zajączków
+trips,trip_headsign,L5_1,cs,Oborniki Śląskie přes Zajączkův
+trips,trip_headsign,L5_2,en,Oborniki Śląskie via Zajączków
+trips,trip_headsign,L5_2,cs,Oborniki Śląskie přes Zajączkův
