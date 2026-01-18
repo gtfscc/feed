@@ -1,0 +1,2 @@
+feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version,feed_contact_email
+"Alexander Dubis","https://gtfs.cc/","pl",20260118,20281231,biskupiec-20260118,hello@gtfs.cc

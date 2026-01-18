@@ -1,0 +1,2 @@
+agency_id,route_id,route_short_name,route_long_name,route_type,route_color,route_text_color
+0,1,TG,Transport Gminny,3,C8FF31,000000

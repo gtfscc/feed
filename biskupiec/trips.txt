@@ -1,0 +1,8 @@
+route_id,service_id,trip_id,trip_headsign,shape_id,block_id
+1,D,K1,Biskupiec Rynek,S1,BA
+1,D,K2,Biskupiec przez Bielice,S2,BA
+1,D,K3,Biskupiec Rynek,S3,BA
+1,D,K4,Biskupiec przez Czachówki,S4,BA
+1,D,K5,Biskupiec przez Osówko,S5,BB
+1,D,K6,Biskupiec przez Bielice,S6,BB
+1,D,K7,Wonna,S7,BC
