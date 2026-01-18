@@ -1,0 +1,18 @@
+route_id,service_id,trip_id,trip_headsign,shape_id,block_id
+1,D,T1_1,Centrum,S1_1,BA
+1,D,T1_2,Centrum przez Solarnię,S1_2,BA
+1,D,T1_3,Centrum przez Solarnię,S1_2,BA
+1,D,T1_4,Urząd Gminy przez Solarnię,S1_3,BB
+1,D,T1_5,Urząd Gminy,S1_4,BC
+1,D,T1_6,Urząd Gminy przez Solarnię,S1_5,BD
+1,D,T1_7,Urząd Gminy przez Szkołę,S1_6,BE
+1,D,T1_8,Centrum przez Szkołę,S1_7,BF
+1,D,T1_9,Centrum,S1_8,BF
+2,D,T2_1,Urząd Gminy przez Działkową,S2_1,BG
+2,D,T2_2,Urząd Gminy przez Działkową,S2_2,BG
+2,D,T2_3,Urząd Gminy przez Działkową,S2_2,BH
+2,D,T2_4,Urząd Gminy przez Działkową,S2_3,BI
+2,D,T2_5,Urząd Gminy przez Działkową,S2_3,BJ
+2,D,T2_6,Urząd Gminy przez Działkową,S2_4,BK
+2,D,T2_7,Urząd Gminy przez Graniczną,S2_5,BL
+2,D,T2_8,Urząd Gminy przez Graniczną,S2_5,BL

@@ -1,0 +1,35 @@
+stop_id,stop_name,stop_lat,stop_lon
+100-01,Ornontowice-Centrum,50.1798474,18.7658591
+101-01,Ornontowice-Urząd Gminy,50.182912,18.762461
+101-02,Ornontowice-Urząd Gminy,50.1829102,18.7622394
+102-01,Ornontowice Graniczna,50.1793503,18.7437603
+103-01,Ornontowice-Kopalnia Budryk,50.1761345,18.7644017
+103-02,Ornontowice-Kopalnia Budryk,50.1740164,18.7640744
+104-01,Ornontowice Leśna,50.1705318,18.7616076
+104-02,Ornontowice Leśna,50.1702981,18.7608003
+105-01,Ornontowice Żabik,50.169394,18.7584468
+106-01,Ornontowice Cicha,50.1876841,18.7583298
+106-02,Ornontowice Cicha,50.1879134,18.7578859
+107-01,Ornontowice Myto,50.1961916,18.7503501
+107-02,Ornontowice Myto,50.1966613,18.7497507
+108-01,Ornontowice-Granica,50.2025933,18.744123
+109-01,Ornontowice Solarnia,50.1911941,18.741838
+110-01,Ornontowice Myśliwska,50.1904118,18.7356387
+111-01,Ornontowice Kwiatowa,50.1919132,18.7536613
+112-01,Ornontowice Pośrednia,50.1912671,18.763402
+113-01,Ornontowice Kolejowa,50.1826862,18.7710984
+114-01,Ornontowice-Szkoła,50.1764067,18.7724343
+114-02,Ornontowice-Szkoła,50.1763036,18.7725524
+115-01,Ornontowice Dworcowa,50.1769449,18.7796336
+115-02,Ornontowice Dworcowa,50.1769157,18.7805255
+116-01,Ornontowice Polna,50.1804229,18.7790653
+117-01,Ornontowice-Zespół Szkół,50.1732788,18.7713191
+117-02,Ornontowice-Zespół Szkół,50.1726953,18.7717214
+118-01,Ornontowice-Ogródki Działkowe,50.1688032,18.7727338
+118-02,Ornontowice-Ogródki Działkowe,50.1689785,18.7728196
+119-01,Ornontowice Działkowa,50.1698944,18.7747589
+119-02,Ornontowice Działkowa,50.169781,18.7744665
+120-01,Ornontowice-Górka,50.1641971,18.7746084
+120-02,Ornontowice-Górka,50.164661,18.7747264
+121-01,Ornontowice Bujakowska,50.166833,18.7787391
+121-02,Ornontowice Bujakowska,50.1675926,18.7787162

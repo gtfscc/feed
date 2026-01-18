@@ -1,0 +1,3 @@
+agency_id,route_id,route_short_name,route_long_name,route_type,route_color,route_text_color
+0,1,B1,Ornontowice - Bus nr 1,3,FFD900,000000
+0,2,B2,Ornontowice - Bus nr 2,3,006DFD,FFFFFF
