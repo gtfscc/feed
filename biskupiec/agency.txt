@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_email
+0,UG Biskupiec,"https://www.gminabiskupiec.pl/dla-mieszkanca/transport-gminny/",Europe/Warsaw,pl,+48 56 474 50 57,ugb@gminabiskupiec.pl
