@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_email
+0,UG Ornontowice,https://ornontowice.pl/informacje/komunikacja/rozklady-jazdy/,Europe/Warsaw,pl,+48 32 33 06 200,ug@ornontowice.pl
