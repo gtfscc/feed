@@ -144,15 +144,70 @@
   </main>
 
 <script>
-const tree = [
+  const tree = [
     {
-        "path": "/oborniki-slaskie",
-        "name": "oborniki-slaskie",
-        "children": [
+      "path": "/biskupiec",
+      "name": "biskupiec",
+      "children": [
         {
-            "path": "/",
-            "name": "unzipped",
-            "children": [
+          "name": "unzipped",
+          "children": [
+            { "path": "/biskupiec/agency.txt", "name": "agency.txt" },
+            { "path": "/biskupiec/calendar.txt", "name": "calendar.txt" },
+            { "path": "/biskupiec/calendar_dates.txt", "name": "calendar_dates.txt" },
+            { "path": "/biskupiec/feed_info.txt", "name": "feed_info.txt" },
+            { "path": "/biskupiec/routes.txt", "name": "routes.txt" },
+            { "path": "/biskupiec/shapes.txt", "name": "shapes.txt" },
+            { "path": "/biskupiec/stop_times.txt", "name": "stop_times.txt" },
+            { "path": "/biskupiec/stops.txt", "name": "stops.txt" },
+            { "path": "/biskupiec/trips.txt", "name": "trips.txt" }
+          ]
+        },
+        {
+          "name": "zipped",
+          "children": [
+            { "path": "/biskupiec/gtfs.zip", "name": "gtfs.zip" }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/czosnow",
+      "name": "czosnow",
+      "children": [
+        {
+          "name": "unzipped",
+          "children": [
+            { "path": "/czosnow/agency.txt", "name": "agency.txt" },
+            { "path": "/czosnow/attributions.txt.txt", "name": "attributions.txt.txt" },
+            { "path": "/czosnow/calendar.txt", "name": "calendar.txt" },
+            { "path": "/czosnow/calendar_dates.txt", "name": "calendar_dates.txt" },
+            { "path": "/czosnow/feed_info.txt", "name": "feed_info.txt" },
+            { "path": "/czosnow/index.html", "name": "index.html" },
+            { "path": "/czosnow/routes.txt", "name": "routes.txt" },
+            { "path": "/czosnow/shapes.txt", "name": "shapes.txt" },
+            { "path": "/czosnow/stop_times.txt", "name": "stop_times.txt" },
+            { "path": "/czosnow/stops.txt", "name": "stops.txt" },
+            { "path": "/czosnow/transfers.txt", "name": "transfers.txt" },
+            { "path": "/czosnow/translations.txt", "name": "translations.txt" },
+            { "path": "/czosnow/trips.txt", "name": "trips.txt" }
+          ]
+        },
+        {
+          "name": "zipped",
+          "children": [
+            { "path": "/czosnow/gtfs.zip", "name": "gtfs.zip" }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/oborniki-slaskie",
+      "name": "oborniki-slaskie",
+      "children": [
+        {
+          "name": "unzipped",
+          "children": [
             { "path": "/oborniki-slaskie/agency.txt", "name": "agency.txt" },
             { "path": "/oborniki-slaskie/calendar.txt", "name": "calendar.txt" },
             { "path": "/oborniki-slaskie/calendar_dates.txt", "name": "calendar_dates.txt" },
@@ -166,25 +221,23 @@ const tree = [
             { "path": "/oborniki-slaskie/stops.txt", "name": "stops.txt" },
             { "path": "/oborniki-slaskie/translations.txt", "name": "translations.txt" },
             { "path": "/oborniki-slaskie/trips.txt", "name": "trips.txt" }
-            ]
+          ]
         },
         {
-            "path": "/",
-            "name": "zipped",
-            "children": [
+          "name": "zipped",
+          "children": [
             { "path": "/oborniki-slaskie/gtfs.zip", "name": "gtfs.zip" }
-            ]
+          ]
         }
-        ]
+      ]
     },
     {
-        "path": "/zakroczym",
-        "name": "zakroczym",
-        "children": [
+      "path": "/zakroczym",
+      "name": "zakroczym",
+      "children": [
         {
-            "path": "/",
-            "name": "unzipped",
-            "children": [
+          "name": "unzipped",
+          "children": [
             { "path": "/zakroczym/agency.txt", "name": "agency.txt" },
             { "path": "/zakroczym/areas.txt", "name": "areas.txt" },
             { "path": "/zakroczym/attributions.txt", "name": "attributions.txt" },
@@ -194,6 +247,7 @@ const tree = [
             { "path": "/zakroczym/fare_media.txt", "name": "fare_media.txt" },
             { "path": "/zakroczym/fare_products.txt", "name": "fare_products.txt" },
             { "path": "/zakroczym/feed_info.txt", "name": "feed_info.txt" },
+            { "path": "/zakroczym/index.html", "name": "index.html" },
             { "path": "/zakroczym/rider_categories.txt", "name": "rider_categories.txt" },
             { "path": "/zakroczym/routes.txt", "name": "routes.txt" },
             { "path": "/zakroczym/shapes.txt", "name": "shapes.txt" },
@@ -202,49 +256,17 @@ const tree = [
             { "path": "/zakroczym/stops.txt", "name": "stops.txt" },
             { "path": "/zakroczym/translations.txt", "name": "translations.txt" },
             { "path": "/zakroczym/trips.txt", "name": "trips.txt" }
-            ]
+          ]
         },
         {
-            "path": "/",
-            "name": "zipped",
-            "children": [
+          "name": "zipped",
+          "children": [
             { "path": "/zakroczym/gtfs.zip", "name": "gtfs.zip" }
-            ]
+          ]
         }
-        ]
-    },
-    {
-        "path": "/czosnow",
-        "name": "czosnow",
-        "children": [
-        {
-            "path": "/",
-            "name": "unzipped",
-            "children": [
-            { "path": "/czosnow/agency.txt", "name": "agency.txt" },
-            { "path": "/czosnow/attributions.txt.txt", "name": "attributions.txt.txt" },
-            { "path": "/czosnow/calendar.txt", "name": "calendar.txt" },
-            { "path": "/czosnow/calendar_dates.txt", "name": "calendar_dates.txt" },
-            { "path": "/czosnow/feed_info.txt", "name": "feed_info.txt" },
-            { "path": "/czosnow/routes.txt", "name": "routes.txt" },
-            { "path": "/czosnow/shapes.txt", "name": "shapes.txt" },
-            { "path": "/czosnow/stop_times.txt", "name": "stop_times.txt" },
-            { "path": "/czosnow/stops.txt", "name": "stops.txt" },
-            { "path": "/czosnow/transfers.txt", "name": "transfers.txt" },
-            { "path": "/czosnow/translations.txt", "name": "translations.txt" },
-            { "path": "/czosnow/trips.txt", "name": "trips.txt" }
-            ]
-        },
-        {
-            "path": "/",
-            "name": "zipped",
-            "children": [
-            { "path": "/czosnow/gtfs.zip", "name": "gtfs.zip" }
-            ]
-        }
-        ]
+      ]
     }
-    ];
+  ];
 
     function generateFileTreeHTML(node) {
     const li = document.createElement("li");
