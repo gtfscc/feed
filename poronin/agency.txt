@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_email
+0,UG Poronin,https://poronin.pl/mieszkaniec/mieszkancy/transport-i-drogi/rozklady-jazdy-bus-autobus/9205.html,Europe/Warsaw,pl,+48 18 207 41 12,gmina@poronin.pl

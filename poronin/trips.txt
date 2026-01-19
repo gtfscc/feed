@@ -1,0 +1,41 @@
+route_id,service_id,trip_id,trip_headsign,shape_id,block_id,direction_id,cars_allowed
+R1,D,K1A_1,Poronin PKP,S1A,BA,1,2
+R1,W,K1A_2,Poronin PKP,S1A,BC,1,2
+R1,D,K1A_3,Poronin PKP,S1A,BB,1,2
+R1,W,K1A_4,Poronin PKP,S1A,BD,1,2
+R1,D,K1A_5,Poronin PKP,S1A,BE,1,2
+R1,D,K1B_1,Małe Ciche,S1B,BA,0,2
+R1,D,K1B_2,Małe Ciche,S1B,BB,0,2
+R1,W,K1B_3,Małe Ciche,S1B,BF,0,2
+R1,W,K1B_4,Małe Ciche,S1B,BG,0,2
+R1,D,K1B_5,Małe Ciche,S1B,BE,0,2
+R2,D,K2A_1,Poronin PKP,S2A,BI,1,2
+R2,D,K2A_2,Poronin PKP,S2A,BH,1,2
+R2,W,K2A_3,Poronin PKP,S2A,BF,1,2
+R2,D,K2A_4,Poronin PKP,S2A,BJ,1,2
+R2,W,K2A_5,Poronin PKP,S2A,BG,1,2
+R2,D,K2B_1,Majerczykówka,S2B,BH,0,2
+R2,W,K2B_2,Majerczykówka,S2B,BF,0,2
+R2,D,K2B_3,Majerczykówka,S2B,BK,0,2
+R2,W,K2B_4,Majerczykówka,S2B,BG,0,2
+R2,D,K2B_5,Majerczykówka,S2B,BL,0,2
+R3,D,K3A_1,Poronin PKP,S3A,BM,1,2
+R3,W,K3A_2,Poronin PKP,S3A,BN,1,2
+R3,D,K3A_3,Poronin PKP,S3A,BO,1,2
+R3,W,K3A_4,Poronin PKP,S3A,BP,1,2
+R3,D,K3A_5,Poronin PKP,S3A,BQ,1,2
+R3,D,K3B_1,Nowe Bystre,S3B,BM,0,2
+R3,W,K3B_2,Nowe Bystre,S3B,BN,0,2
+R3,D,K3B_3,Nowe Bystre,S3B,BO,0,2
+R3,W,K3B_4,Nowe Bystre,S3B,BP,0,2
+R3,D,K3B_5,Nowe Bystre,S3B,BQ,0,2
+R4,D,K4A_1,Poronin PKP,S4A,BT,1,2
+R4,W,K4A_2,Poronin PKP,S4A,BU,1,2
+R4,D,K4A_3,Poronin PKP,S4A,BR,1,2
+R4,W,K4A_4,Poronin PKP,S4A,BV,1,2
+R4,D,K4A_5,Poronin PKP,S4A,BS,1,2
+R4,D,K4B_1,Bustryk,S4B,BW,0,2
+R4,D,K4B_2,Bustryk Dolny,S4B,BR,0,2
+R4,W,K4B_3,Bustryk Dolny,S4B,BX,0,2
+R4,W,K4B_4,Bustryk Dolny,S4B,BS,0,2
+R4,D,K4B_5,Bustryk Dolny,S4B,BY,0,2
