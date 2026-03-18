@@ -1,165 +1,175 @@
-route_id,service_id,trip_id,trip_headsign,direction_id,shape_id,cars_allowed
-WA1,D,2736,Rzakta przez Park Miejski,1,SWA1_1S,2
-WA1,6,2783,Rzakta przez Park Miejski,1,SWA1_1S,2
-WA1,D,2737,Rzakta przez Park Miejski,1,SWA1_1S,2
-WA1,7,2806,Rzakta przez Park Miejski,1,SWA1_1S,2
-WA1,D,2738,Rzakta przez Park Miejski,1,SWA1_1S,2
-WA1,D,2739,Rzakta przez Park Miejski,1,SWA1_1S,2
-WA1,D,2740,Rzakta przez Park Miejski,1,SWA1_1S,2
-WA1,6,2784,Rzakta przez Szpital,1,SWA1_1L,2
-WA1,D,2741,Rzakta przez Park Miejski,1,SWA1_1S,2
-WA1,D,2742,Rzakta przez Park Miejski,1,SWA1_1S,2
-WA1,7,2807,Rzakta przez Park Miejski,1,SWA1_1S,2
-WA1,6,2785,Rzakta przez Szpital,1,SWA1_1L,2
-WA1,D,2743,Rzakta przez Park Miejski,1,SWA1_1S,2
-WA1,D,2744,Rzakta przez Park Miejski,1,SWA1_1S,2
-WA1,7,2808,Rzakta przez Park Miejski,1,SWA1_1S,2
-WA1,6,2786,Rzakta przez Szpital,1,SWA1_1L,2
-WA1,D,2745,Rzakta przez Park Miejski,1,SWA1_1S,2
-WA1,D,2746,Rzakta przez Park Miejski,1,SWA1_1S,2
-WA1,6,2787,Rzakta przez Szpital,1,SWA1_1L,2
-WA1,D,2747,Rzakta przez Park Miejski,1,SWA1_1S,2
-WA1,7,2809,Rzakta przez Park Miejski,1,SWA1_1S,2
-WA1,D,2748,Rzakta przez Park Miejski,1,SWA1_1S,2
-WA1,D,2749,Rzakta przez Park Miejski,1,SWA1_1S,2
-WA1,6,2788,Rzakta przez Park Miejski,1,SWA1_1S,2
-WA1,D,2750,Rzakta przez Park Miejski,1,SWA1_1S,2
-WA1,7,2810,Rzakta przez Park Miejski,1,SWA1_1S,2
-WA1,D,2751,Rzakta przez Park Miejski,1,SWA1_1S,2
-WA1,D,2752,Rzakta przez Park Miejski,1,SWA1_1S,2
-WA1,6,2789,Rzakta przez Park Miejski,1,SWA1_1S,2
-WA1,D,2753,Rzakta przez Park Miejski,1,SWA1_1S,2
-WA1,7,2811,Rzakta przez Park Miejski,1,SWA1_1S,2
-WA1,D,2754,Rzakta przez Park Miejski,1,SWA1_1S,2
-WA1,6,2795,Rzakta przez Park Miejski,1,SWA1_1S,2
-WA1,D,2755,Rzakta przez Park Miejski,1,SWA1_1S,2
-WA1,7,2812,Rzakta przez Park Miejski,1,SWA1_1S,2
-WA1,D,2756,Rzakta przez Park Miejski,1,SWA1_1S,2
-WA1,6,2796,Rzakta przez Park Miejski,1,SWA1_1S,2
-WA1,D,2757,Rzakta przez Park Miejski,1,SWA1_1S,2
-WA1,D,2758,Otwock Orla,0,SWA1_0S,2
-WA1,6,2797,Otwock Orla przez Zygmunta,0,SWA1_0L,2
-WA1,7,2813,Otwock Orla,0,SWA1_0S,2
-WA1,D,2759,Otwock Orla,0,SWA1_0S,2
-WA1,D,2760,Otwock Orla,0,SWA1_0S,2
-WA1,D,2761,Otwock Orla,0,SWA1_0S,2
-WA1,6,2798,Otwock Orla przez Zygmunta,0,SWA1_0L,2
-WA1,D,2762,Otwock Orla,0,SWA1_0S,2
-WA1,7,2814,Otwock Orla,0,SWA1_0S,2
-WA1,D,2763,Otwock Orla,0,SWA1_0S,2
-WA1,D,2764,Otwock Orla,0,SWA1_0S,2
-WA1,D,2765,Otwock Orla,0,SWA1_0S,2
-WA1,6,2799,Otwock Orla przez Zygmunta,0,SWA1_0L,2
-WA1,D,2766,Otwock Orla,0,SWA1_0S,2
-WA1,D,2767,Otwock Orla,0,SWA1_0S,2
-WA1,7,2815,Otwock Orla,0,SWA1_0S,2
-WA1,6,2800,Otwock Orla przez Zygmunta,0,SWA1_0L,2
-WA1,D,2768,Otwock Orla,0,SWA1_0S,2
-WA1,D,2769,Otwock Orla,0,SWA1_0S,2
-WA1,7,2816,Otwock Orla,0,SWA1_0S,2
-WA1,6,2801,Otwock Orla przez Zygmunta,0,SWA1_0L,2
-WA1,D,2773,Otwock Orla,0,SWA1_0S,2
-WA1,D,2774,Otwock Orla,0,SWA1_0S,2
-WA1,D,2775,Otwock Orla,0,SWA1_0S,2
-WA1,6,2802,Otwock Orla przez Zygmunta,0,SWA1_0L,2
-WA1,7,2817,Otwock Orla,0,SWA1_0S,2
-WA1,D,2776,Otwock Orla,0,SWA1_0S,2
-WA1,D,2777,Otwock Orla,0,SWA1_0S,2
-WA1,6,2803,Otwock Orla przez Zygmunta,0,SWA1_0L,2
-WA1,D,2778,Otwock Orla,0,SWA1_0S,2
-WA1,7,2818,Otwock Orla,0,SWA1_0S,2
-WA1,D,2779,Otwock Orla,0,SWA1_0S,2
-WA1,6,2804,Otwock Orla przez Zygmunta,0,SWA1_0L,2
-WA1,7,2819,Otwock Orla,0,SWA1_0S,2
-WA1,D,2780,Otwock Orla,0,SWA1_0S,2
-WA1,D,2781,Otwock Orla,0,SWA1_0S,2
-WA1,6,2805,Otwock Orla przez Zygmunta,0,SWA1_0L,2
-WA1,D,2782,Otwock Orla,0,SWA1_0S,2
-WA2,D,2820,Wiązowna przez Radiówek-Osiedle,1,SWA2_1L,2
-WA2,6,2872,Wiązowna-Urząd Gminy,1,SWA2_1S,2
-WA2,D,2821,Wiązowna-Urząd Gminy,1,SWA2_1S,2
-WA2,D,2822,Wiązowna przez Radiówek-Osiedle,1,SWA2_1L,2
-WA2,D,2823,Wiązowna-Urząd Gminy,1,SWA2_1S,2
-WA2,6,2873,Wiązowna-Urząd Gminy,1,SWA2_1S,2
-WA2,D,2824,Wiązowna przez Radiówek-Osiedle,1,SWA2_1L,2
-WA2,D,2825,Wiązowna-Urząd Gminy,1,SWA2_1S,2
-WA2,7,2894,Wiązowna-Urząd Gminy,1,SWA2_1S,2
-WA2,D,2826,Wiązowna przez Radiówek-Osiedle,1,SWA2_1L,2
-WA2,D,2827,Wiązowna-Urząd Gminy,1,SWA2_1S,2
-WA2,6,2874,Wiązowna-Urząd Gminy,1,SWA2_1S,2
-WA2,D,2828,Wiązowna-Urząd Gminy,1,SWA2_1S,2
-WA2,D,2829,Wiązowna przez Radiówek-Osiedle,1,SWA2_1L,2
-WA2,7,2895,Wiązowna-Urząd Gminy,1,SWA2_1S,2
-WA2,6,2875,Wiązowna-Urząd Gminy,1,SWA2_1S,2
-WA2,D,2830,Wiązowna-Urząd Gminy,1,SWA2_1S,2
-WA2,6,2876,Wiązowna-Urząd Gminy,1,SWA2_1S,2
-WA2,D,2831,Wiązowna przez Radiówek-Osiedle,1,SWA2_1L,2
-WA2,7,2896,Wiązowna-Urząd Gminy,1,SWA2_1S,2
-WA2,D,2832,Wiązowna-Urząd Gminy,1,SWA2_1S,2
-WA2,6,2877,Wiązowna-Urząd Gminy,1,SWA2_1S,2
-WA2,D,2833,Wiązowna-Urząd Gminy,1,SWA2_1S,2
-WA2,D,2834,Wiązowna przez Radiówek-Osiedle,1,SWA2_1L,2
-WA2,7,2897,Wiązowna-Urząd Gminy,1,SWA2_1S,2
-WA2,D,2835,Wiązowna-Urząd Gminy,1,SWA2_1S,2
-WA2,6,2878,Wiązowna-Urząd Gminy,1,SWA2_1S,2
-WA2,D,2836,Wiązowna przez Radiówek-Osiedle,1,SWA2_1L,2
-WA2,D,2837,Wiązowna-Urząd Gminy,1,SWA2_1S,2
-WA2,D,2838,Wiązowna przez Radiówek-Osiedle,1,SWA2_1L,2
-WA2,7,2898,Wiązowna-Urząd Gminy,1,SWA2_1S,2
-WA2,6,2879,Wiązowna-Urząd Gminy,1,SWA2_1S,2
-WA2,D,2839,Wiązowna-Urząd Gminy,1,SWA2_1S,2
-WA2,D,2840,Wiązowna przez Radiówek-Osiedle,1,SWA2_1L,2
-WA2,6,2880,Wiązowna-Urząd Gminy,1,SWA2_1S,2
-WA2,7,2899,Wiązowna-Urząd Gminy,1,SWA2_1S,2
-WA2,D,2841,Wiązowna-Urząd Gminy,1,SWA2_1S,2
-WA2,6,2881,Wiązowna-Urząd Gminy,1,SWA2_1S,2
-WA2,D,2842,Wiązowna-Urząd Gminy,1,SWA2_1S,2
-WA2,7,2900,Wiązowna-Urząd Gminy,1,SWA2_1S,2
-WA2,D,2843,Wiązowna-Urząd Gminy,1,SWA2_1S,2
-WA2,6,2882,Wiązowna-Urząd Gminy,1,SWA2_1S,2
-WA2,D,2844,Wiązowna-Urząd Gminy,1,SWA2_1S,2
-WA2,D,2845,Wiązowna-Urząd Gminy,1,SWA2_1S,2
-WA2,D,2846,Otwock Orla,0,SWA2_0S,2
-WA2,6,2883,Otwock Orla,0,SWA2_0S,2
-WA2,D,2847,Otwock Orla,0,SWA2_0S,2
-WA2,D,2848,Otwock Orla przez Radiówek-Osiedle,0,SWA2_0L,2
-WA2,D,2849,Otwock Orla,0,SWA2_0S,2
-WA2,D,2850,Otwock Orla,0,SWA2_0S,2
-WA2,6,2884,Otwock Orla,0,SWA2_0S,2
-WA2,D,2851,Otwock Orla przez Radiówek-Osiedle,0,SWA2_0L,2
-WA2,7,2901,Otwock Orla,0,SWA2_0S,2
-WA2,D,2852,Otwock Orla,0,SWA2_0S,2
-WA2,D,2853,Otwock Orla przez Radiówek-Osiedle,0,SWA2_0L,2
-WA2,6,2885,Otwock Orla,0,SWA2_0S,2
-WA2,D,2854,Otwock Orla,0,SWA2_0S,2
-WA2,D,2855,Otwock Orla przez Radiówek-Osiedle,0,SWA2_0L,2
-WA2,7,2902,Otwock Orla,0,SWA2_0S,2
-WA2,6,2886,Otwock Orla,0,SWA2_0S,2
-WA2,D,2856,Otwock Orla przez Radiówek-Osiedle,0,SWA2_0L,2
-WA2,D,2857,Otwock Orla przez Radiówek-Osiedle,0,SWA2_0L,2
-WA2,6,2887,Otwock Orla,0,SWA2_0S,2
-WA2,7,2903,Otwock Orla,0,SWA2_0S,2
-WA2,D,2858,Otwock Orla,0,SWA2_0S,2
-WA2,6,2888,Otwock Orla,0,SWA2_0S,2
-WA2,D,2859,Otwock Orla przez Radiówek-Osiedle,0,SWA2_0L,2
-WA2,7,2904,Otwock Orla,0,SWA2_0S,2
-WA2,D,2860,Otwock Orla przez Radiówek-Osiedle,0,SWA2_0L,2
-WA2,D,2861,Otwock Orla,0,SWA2_0S,2
-WA2,6,2889,Otwock Orla,0,SWA2_0S,2
-WA2,D,2862,Otwock Orla,0,SWA2_0S,2
-WA2,D,2863,Otwock Orla,0,SWA2_0S,2
-WA2,7,2905,Otwock Orla,0,SWA2_0S,2
-WA2,D,2864,Otwock Orla,0,SWA2_0S,2
-WA2,6,2890,Otwock Orla,0,SWA2_0S,2
-WA2,D,2865,Otwock Orla przez Radiówek-Osiedle,0,SWA2_0L,2
-WA2,D,2866,Otwock Orla,0,SWA2_0S,2
-WA2,6,2891,Otwock Orla,0,SWA2_0S,2
-WA2,7,2906,Otwock Orla,0,SWA2_0S,2
-WA2,D,2867,Otwock Orla przez Radiówek-Osiedle,0,SWA2_0L,2
-WA2,6,2892,Otwock Orla,0,SWA2_0S,2
-WA2,D,2868,Otwock Orla,0,SWA2_0S,2
-WA2,7,2907,Otwock Orla,0,SWA2_0S,2
-WA2,D,2869,Otwock Orla,0,SWA2_0S,2
-WA2,6,2893,Otwock Orla,0,SWA2_0S,2
-WA2,D,2870,Otwock Orla,0,SWA2_0S,2
-WA2,D,2871,Otwock Orla,0,SWA2_0S,2
+route_id,service_id,trip_id,trip_headsign,direction_id,shape_id,cars_allowed,block_id
+WA1,D,2736,Rzakta przez Park Miejski,1,SWA1_1S,2,
+WA1,6,2783,Rzakta przez Park Miejski,1,SWA1_1S,2,
+WA1,D,2737,Rzakta przez Park Miejski,1,SWA1_1S,2,
+WA1,7,2806,Rzakta przez Park Miejski,1,SWA1_1S,2,
+WA1,D,2738,Rzakta przez Park Miejski,1,SWA1_1S,2,
+WA1,D,2739,Rzakta przez Park Miejski,1,SWA1_1S,2,
+WA1,D,2740,Rzakta przez Park Miejski,1,SWA1_1S,2,
+WA1,6,2784,Rzakta przez Szpital,1,SWA1_1L,2,
+WA1,D,2741,Rzakta przez Park Miejski,1,SWA1_1S,2,
+WA1,D,2742,Rzakta przez Park Miejski,1,SWA1_1S,2,
+WA1,7,2807,Rzakta przez Park Miejski,1,SWA1_1S,2,
+WA1,6,2785,Rzakta przez Szpital,1,SWA1_1L,2,
+WA1,D,2743,Rzakta przez Park Miejski,1,SWA1_1S,2,
+WA1,D,2744,Rzakta przez Park Miejski,1,SWA1_1S,2,
+WA1,7,2808,Rzakta przez Park Miejski,1,SWA1_1S,2,
+WA1,6,2786,Rzakta przez Szpital,1,SWA1_1L,2,
+WA1,D,2745,Rzakta przez Park Miejski,1,SWA1_1S,2,
+WA1,D,2746,Rzakta przez Park Miejski,1,SWA1_1S,2,
+WA1,6,2787,Rzakta przez Szpital,1,SWA1_1L,2,
+WA1,D,2747,Rzakta przez Park Miejski,1,SWA1_1S,2,
+WA1,7,2809,Rzakta przez Park Miejski,1,SWA1_1S,2,
+WA1,D,2748,Rzakta przez Park Miejski,1,SWA1_1S,2,
+WA1,D,2749,Rzakta przez Park Miejski,1,SWA1_1S,2,
+WA1,6,2788,Rzakta przez Park Miejski,1,SWA1_1S,2,
+WA1,D,2750,Rzakta przez Park Miejski,1,SWA1_1S,2,
+WA1,7,2810,Rzakta przez Park Miejski,1,SWA1_1S,2,
+WA1,D,2751,Rzakta przez Park Miejski,1,SWA1_1S,2,
+WA1,D,2752,Rzakta przez Park Miejski,1,SWA1_1S,2,
+WA1,6,2789,Rzakta przez Park Miejski,1,SWA1_1S,2,
+WA1,D,2753,Rzakta przez Park Miejski,1,SWA1_1S,2,
+WA1,7,2811,Rzakta przez Park Miejski,1,SWA1_1S,2,
+WA1,D,2754,Rzakta przez Park Miejski,1,SWA1_1S,2,
+WA1,6,2795,Rzakta przez Park Miejski,1,SWA1_1S,2,
+WA1,D,2755,Rzakta przez Park Miejski,1,SWA1_1S,2,
+WA1,7,2812,Rzakta przez Park Miejski,1,SWA1_1S,2,
+WA1,D,2756,Rzakta przez Park Miejski,1,SWA1_1S,2,
+WA1,6,2796,Rzakta przez Park Miejski,1,SWA1_1S,2,
+WA1,D,2757,Rzakta przez Park Miejski,1,SWA1_1S,2,
+WA1,D,2758,Otwock Orla,0,SWA1_0S,2,
+WA1,6,2797,Otwock Orla przez Zygmunta,0,SWA1_0L,2,
+WA1,7,2813,Otwock Orla,0,SWA1_0S,2,
+WA1,D,2759,Otwock Orla,0,SWA1_0S,2,
+WA1,D,2760,Otwock Orla,0,SWA1_0S,2,
+WA1,D,2761,Otwock Orla,0,SWA1_0S,2,
+WA1,6,2798,Otwock Orla przez Zygmunta,0,SWA1_0L,2,
+WA1,D,2762,Otwock Orla,0,SWA1_0S,2,
+WA1,7,2814,Otwock Orla,0,SWA1_0S,2,
+WA1,D,2763,Otwock Orla,0,SWA1_0S,2,
+WA1,D,2764,Otwock Orla,0,SWA1_0S,2,
+WA1,D,2765,Otwock Orla,0,SWA1_0S,2,
+WA1,6,2799,Otwock Orla przez Zygmunta,0,SWA1_0L,2,
+WA1,D,2766,Otwock Orla,0,SWA1_0S,2,
+WA1,D,2767,Otwock Orla,0,SWA1_0S,2,
+WA1,7,2815,Otwock Orla,0,SWA1_0S,2,
+WA1,6,2800,Otwock Orla przez Zygmunta,0,SWA1_0L,2,
+WA1,D,2768,Otwock Orla,0,SWA1_0S,2,
+WA1,D,2769,Otwock Orla,0,SWA1_0S,2,
+WA1,7,2816,Otwock Orla,0,SWA1_0S,2,
+WA1,6,2801,Otwock Orla przez Zygmunta,0,SWA1_0L,2,
+WA1,D,2773,Otwock Orla,0,SWA1_0S,2,
+WA1,D,2774,Otwock Orla,0,SWA1_0S,2,
+WA1,D,2775,Otwock Orla,0,SWA1_0S,2,
+WA1,6,2802,Otwock Orla przez Zygmunta,0,SWA1_0L,2,
+WA1,7,2817,Otwock Orla,0,SWA1_0S,2,
+WA1,D,2776,Otwock Orla,0,SWA1_0S,2,
+WA1,D,2777,Otwock Orla,0,SWA1_0S,2,
+WA1,6,2803,Otwock Orla przez Zygmunta,0,SWA1_0L,2,
+WA1,D,2778,Otwock Orla,0,SWA1_0S,2,
+WA1,7,2818,Otwock Orla,0,SWA1_0S,2,
+WA1,D,2779,Otwock Orla,0,SWA1_0S,2,
+WA1,6,2804,Otwock Orla przez Zygmunta,0,SWA1_0L,2,
+WA1,7,2819,Otwock Orla,0,SWA1_0S,2,
+WA1,D,2780,Otwock Orla,0,SWA1_0S,2,
+WA1,D,2781,Otwock Orla,0,SWA1_0S,2,
+WA1,6,2805,Otwock Orla przez Zygmunta,0,SWA1_0L,2,
+WA1,D,2782,Otwock Orla,0,SWA1_0S,2,
+WA2,D,2820,Wiązowna przez Radiówek-Osiedle,1,SWA2_1L,2,
+WA2,6,2872,Wiązowna-Urząd Gminy,1,SWA2_1S,2,
+WA2,D,2821,Wiązowna-Urząd Gminy,1,SWA2_1S,2,
+WA2,D,2822,Wiązowna przez Radiówek-Osiedle,1,SWA2_1L,2,
+WA2,D,2823,Wiązowna-Urząd Gminy,1,SWA2_1S,2,
+WA2,6,2873,Wiązowna-Urząd Gminy,1,SWA2_1S,2,
+WA2,D,2824,Wiązowna przez Radiówek-Osiedle,1,SWA2_1L,2,
+WA2,D,2825,Wiązowna-Urząd Gminy,1,SWA2_1S,2,
+WA2,7,2894,Wiązowna-Urząd Gminy,1,SWA2_1S,2,
+WA2,D,2826,Wiązowna przez Radiówek-Osiedle,1,SWA2_1L,2,
+WA2,D,2827,Wiązowna-Urząd Gminy,1,SWA2_1S,2,
+WA2,6,2874,Wiązowna-Urząd Gminy,1,SWA2_1S,2,
+WA2,D,2828,Wiązowna-Urząd Gminy,1,SWA2_1S,2,
+WA2,D,2829,Wiązowna przez Radiówek-Osiedle,1,SWA2_1L,2,
+WA2,7,2895,Wiązowna-Urząd Gminy,1,SWA2_1S,2,
+WA2,6,2875,Wiązowna-Urząd Gminy,1,SWA2_1S,2,
+WA2,D,2830,Wiązowna-Urząd Gminy,1,SWA2_1S,2,
+WA2,6,2876,Wiązowna-Urząd Gminy,1,SWA2_1S,2,
+WA2,D,2831,Wiązowna przez Radiówek-Osiedle,1,SWA2_1L,2,
+WA2,7,2896,Wiązowna-Urząd Gminy,1,SWA2_1S,2,
+WA2,D,2832,Wiązowna-Urząd Gminy,1,SWA2_1S,2,
+WA2,6,2877,Wiązowna-Urząd Gminy,1,SWA2_1S,2,
+WA2,D,2833,Wiązowna-Urząd Gminy,1,SWA2_1S,2,
+WA2,D,2834,Wiązowna przez Radiówek-Osiedle,1,SWA2_1L,2,
+WA2,7,2897,Wiązowna-Urząd Gminy,1,SWA2_1S,2,
+WA2,D,2835,Wiązowna-Urząd Gminy,1,SWA2_1S,2,
+WA2,6,2878,Wiązowna-Urząd Gminy,1,SWA2_1S,2,
+WA2,D,2836,Wiązowna przez Radiówek-Osiedle,1,SWA2_1L,2,
+WA2,D,2837,Wiązowna-Urząd Gminy,1,SWA2_1S,2,
+WA2,D,2838,Wiązowna przez Radiówek-Osiedle,1,SWA2_1L,2,
+WA2,7,2898,Wiązowna-Urząd Gminy,1,SWA2_1S,2,
+WA2,6,2879,Wiązowna-Urząd Gminy,1,SWA2_1S,2,
+WA2,D,2839,Wiązowna-Urząd Gminy,1,SWA2_1S,2,
+WA2,D,2840,Wiązowna przez Radiówek-Osiedle,1,SWA2_1L,2,
+WA2,6,2880,Wiązowna-Urząd Gminy,1,SWA2_1S,2,
+WA2,7,2899,Wiązowna-Urząd Gminy,1,SWA2_1S,2,
+WA2,D,2841,Wiązowna-Urząd Gminy,1,SWA2_1S,2,
+WA2,6,2881,Wiązowna-Urząd Gminy,1,SWA2_1S,2,
+WA2,D,2842,Wiązowna-Urząd Gminy,1,SWA2_1S,2,
+WA2,7,2900,Wiązowna-Urząd Gminy,1,SWA2_1S,2,
+WA2,D,2843,Wiązowna-Urząd Gminy,1,SWA2_1S,2,
+WA2,6,2882,Wiązowna-Urząd Gminy,1,SWA2_1S,2,
+WA2,D,2844,Wiązowna-Urząd Gminy,1,SWA2_1S,2,
+WA2,D,2845,Wiązowna-Urząd Gminy,1,SWA2_1S,2,
+WA2,D,2846,Otwock Orla,0,SWA2_0S,2,
+WA2,6,2883,Otwock Orla,0,SWA2_0S,2,
+WA2,D,2847,Otwock Orla,0,SWA2_0S,2,
+WA2,D,2848,Otwock Orla przez Radiówek-Osiedle,0,SWA2_0L,2,
+WA2,D,2849,Otwock Orla,0,SWA2_0S,2,
+WA2,D,2850,Otwock Orla,0,SWA2_0S,2,
+WA2,6,2884,Otwock Orla,0,SWA2_0S,2,
+WA2,D,2851,Otwock Orla przez Radiówek-Osiedle,0,SWA2_0L,2,
+WA2,7,2901,Otwock Orla,0,SWA2_0S,2,
+WA2,D,2852,Otwock Orla,0,SWA2_0S,2,
+WA2,D,2853,Otwock Orla przez Radiówek-Osiedle,0,SWA2_0L,2,
+WA2,6,2885,Otwock Orla,0,SWA2_0S,2,
+WA2,D,2854,Otwock Orla,0,SWA2_0S,2,
+WA2,D,2855,Otwock Orla przez Radiówek-Osiedle,0,SWA2_0L,2,
+WA2,7,2902,Otwock Orla,0,SWA2_0S,2,
+WA2,6,2886,Otwock Orla,0,SWA2_0S,2,
+WA2,D,2856,Otwock Orla przez Radiówek-Osiedle,0,SWA2_0L,2,
+WA2,D,2857,Otwock Orla przez Radiówek-Osiedle,0,SWA2_0L,2,
+WA2,6,2887,Otwock Orla,0,SWA2_0S,2,
+WA2,7,2903,Otwock Orla,0,SWA2_0S,2,
+WA2,D,2858,Otwock Orla,0,SWA2_0S,2,
+WA2,6,2888,Otwock Orla,0,SWA2_0S,2,
+WA2,D,2859,Otwock Orla przez Radiówek-Osiedle,0,SWA2_0L,2,
+WA2,7,2904,Otwock Orla,0,SWA2_0S,2,
+WA2,D,2860,Otwock Orla przez Radiówek-Osiedle,0,SWA2_0L,2,
+WA2,D,2861,Otwock Orla,0,SWA2_0S,2,
+WA2,6,2889,Otwock Orla,0,SWA2_0S,2,
+WA2,D,2862,Otwock Orla,0,SWA2_0S,2,
+WA2,D,2863,Otwock Orla,0,SWA2_0S,2,
+WA2,7,2905,Otwock Orla,0,SWA2_0S,2,
+WA2,D,2864,Otwock Orla,0,SWA2_0S,2,
+WA2,6,2890,Otwock Orla,0,SWA2_0S,2,
+WA2,D,2865,Otwock Orla przez Radiówek-Osiedle,0,SWA2_0L,2,
+WA2,D,2866,Otwock Orla,0,SWA2_0S,2,
+WA2,6,2891,Otwock Orla,0,SWA2_0S,2,
+WA2,7,2906,Otwock Orla,0,SWA2_0S,2,
+WA2,D,2867,Otwock Orla przez Radiówek-Osiedle,0,SWA2_0L,2,
+WA2,6,2892,Otwock Orla,0,SWA2_0S,2,
+WA2,D,2868,Otwock Orla,0,SWA2_0S,2,
+WA2,7,2907,Otwock Orla,0,SWA2_0S,2,
+WA2,D,2869,Otwock Orla,0,SWA2_0S,2,
+WA2,6,2893,Otwock Orla,0,SWA2_0S,2,
+WA2,D,2870,Otwock Orla,0,SWA2_0S,2,
+WA2,D,2871,Otwock Orla,0,SWA2_0S,2,
+WW3,D,30001,Michałówek-Pętla przez Kolejową,1,SWW3_1,2,B3_1
+WW3,D,30002,Michałówek-Pętla przez Kolejową,1,SWW3_1,2,B3_1
+WW3,D,30003,Michałówek-Pętla przez Kolejową,1,SWW3_1,2,B3_1
+WW3,D,30004,Michałówek-Pętla przez Kolejową,1,SWW3_1,2,B3_2
+WW3,D,30005,Michałówek-Pętla przez Kolejową,1,SWW3_1,2,B3_3
+WW3,D,30006,Michałówek-Pętla przez Kolejową,1,SWW3_1,2,B3_3
+WW3,D,30007,Michałówek-Pętla przez Kolejową,1,SWW3_1,2,B3_3
+WW3,D,30008,Michałówek-Pętla przez Kolejową,1,SWW3_1,2,B3_3
+WW3,D,30009,Michałówek-Pętla przez Kolejową,1,SWW3_1,2,B3_3
+WW3,D,30010,Michałówek-Pętla przez Kolejową,1,SWW3_1,2,B3_3
