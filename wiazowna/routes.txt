@@ -1,0 +1,3 @@
+agency_id,route_id,route_short_name,route_long_name,route_type,route_color,route_text_color
+0,WA1,A1,Otwock Orla – Rzakta,3,E54C4C,FFFFFF
+0,WA2,A2,Otwock Orla – Wiązowna Urząd Gminy,3,449663,FFFFFF
