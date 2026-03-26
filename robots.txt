@@ -1,7 +1,12 @@
 User-agent: *
 Allow: /
 
+Disallow: /biskupiec/
 Disallow: /czosnow/
+Disallow: /oborniki-slaskie/
+Disallow: /ornontowice/
+Disallow: /poronin/
+Disallow: /wiazowna/
 Disallow: /zakroczym/
 Disallow: /*
 
