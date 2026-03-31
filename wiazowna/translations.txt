@@ -1,0 +1,19 @@
+table_name,field_name,field_value,language,translation
+trips,trip_headsign,Rzakta przez Park Miejski,en,Rzakta via Park Miejski
+trips,trip_headsign,Rzakta przez Szpital,en,Rzakta via District Hospital
+trips,trip_headsign,Otwock Orla przez Zygmunta,en,Otwock Orla via Zygmunta
+trips,trip_headsign,Wiązowna przez Radiówek-Osiedle,en,Wiązowna via Radiówek-Osiedle
+trips,trip_headsign,Otwock Orla przez Radiówek-Osiedle,en,Otwock Orla via Radiówek-Osiedle
+trips,trip_headsign,Michałówek-Pętla przez Kolejową,en,Michałówek-Pętla via Kolejowa
+trips,trip_headsign,Otwock Orla,en,Otwock Orla (Railway Station)
+trips,trip_headsign,Orla,en,Orla (Railway Station)
+stops,stop_name,PKP Śródborów,en,PKP Sródborów (Railway Station)
+stops,stop_name,Otwock Orla,en,Otwock Orla (Railway Station)
+stops,stop_name,Otwock Teklin-Szpital,en,Otwock Teklin-Szpital (Hospital)
+stops,stop_name,Otwock Szpital Powiatowy,en,Otwock Szpital Powiatowy (District Hospital)
+stops,stop_name,PKP Sulejówek,en,PKP Sulejówek (Railway Station)
+stop_times,stop_headsign,Otwock Orla,en,Otwock Orla (Railway Station)
+stop_times,stop_headsign,Orla,en,Orla (Railway Station)
+stop_times,stop_headsign,Orla przez Zygmunta,en,Orla via Zygmunta
+stop_times,stop_headsign,Orla przez Park Miejski,en,Orla via Park Miejski
+routes,route_long_name,Linia okrężna,en,Loop line

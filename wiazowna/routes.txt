@@ -1,4 +1,4 @@
 agency_id,route_id,route_short_name,route_long_name,route_type,route_color,route_text_color
-0,WA1,A1,Otwock Orla – Rzakta,3,F56F00,FFFFFF
-0,WA2,A2,Otwock Orla – Wiązowna Urząd Gminy,3,F56F00,FFFFFF
-1,WW3,W3,Linia okrężna,3,005E98,FFFFFF
+0,WA1,A1,Otwock Orla – Rzakta,3,CA3B36,FFFFFF
+0,WA2,A2,Otwock Orla – Wiązowna Urząd Gminy,3,619F72,FFFFFF
+1,WW3,W3,Linia okrężna,3,345E96,FFFFFF
